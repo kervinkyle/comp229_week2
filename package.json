@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "comp229_week2",
+  "description": "(app.js)",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kervinkyle/comp229_week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kervinkyle/comp229_week2/issues"
+  },
+  "homepage": "https://github.com/kervinkyle/comp229_week2#readme"
+}
